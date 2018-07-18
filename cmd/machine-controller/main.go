@@ -24,8 +24,8 @@ import (
 	"k8s.io/apiserver/pkg/util/logs"
 	"sigs.k8s.io/cluster-api/pkg/controller/config"
 
-	"sigs.k8s.io/cluster-api-provider-skeleton/cloud/skeleton/controllers/machine"
-	"sigs.k8s.io/cluster-api-provider-skeleton/cloud/skeleton/controllers/machine/options"
+	"github.com/gonzolino/cluster-api-provider-vagrant/cloud/vagrant/controllers/machine"
+	"github.com/gonzolino/cluster-api-provider-vagrant/cloud/vagrant/controllers/machine/options"
 )
 
 func init() {

@@ -2,11 +2,11 @@
 
 approvers:
   - sig-cluster-lifecycle-leads
-  - sig-skeleton-leads
+  - sig-vagrant-leads
   - cluster-api-admins
   - cluster-api-maintainers
-  - cluster-api-skeleton-maintainers
+  - cluster-api-vagrant-maintainers
 
 reviewers:
   - cluster-api-maintainers
-  - cluster-api-skeleton-maintainers
+  - cluster-api-vagrant-maintainers
